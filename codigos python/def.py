@@ -1,0 +1,10 @@
+def l():
+    print('_'*10)
+l()
+print ('thomas')
+l()
+print ('lucas')
+l()
+print ('bockorni')
+l()
+print('Da silva')
